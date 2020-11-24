@@ -1,1 +1,1 @@
-this is file 2 of the system
+this is file 2 of the unix machine
