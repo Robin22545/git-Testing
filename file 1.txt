@@ -1,1 +1,2 @@
-first version of mine and ours.
+first version of mine and ours .
+I really like using git .
